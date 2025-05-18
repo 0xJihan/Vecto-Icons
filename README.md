@@ -63,7 +63,7 @@ contentDescription = null
 
 Want to see Vecto Icons in action? Download and try the demo app!
 
-[![Download Demo](https://img.shields.io/badge/Download-Demo%20APK-blue?logo=android)](https://github.com/0xJihan/Vecto-Icons-Library/raw/main/app/release/app-release.apk)
+[![Download Demo](https://img.shields.io/badge/Download-Demo%20APK-blue?logo=android)](https://raw.githubusercontent.com/0xJihan/Vecto-Icons/main/app/release/app-release.apk)
 
 > 🔐 Note: You may need to allow installation from unknown sources on your Android device.
 
